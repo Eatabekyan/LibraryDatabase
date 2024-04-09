@@ -6,7 +6,7 @@
 
 ![GitHub Image](/docs/logical_diagram.png)
 
-### [Физическая модель](/docs/phyical-model.md)
+### [Физическая модель](/docs/physical-model.md)
 
 <h2 align="center">Сущности</h2>
 <h2>Книги</h2>
